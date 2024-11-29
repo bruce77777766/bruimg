@@ -1,2 +1,0 @@
-# bruimg
-For hosting photos 
